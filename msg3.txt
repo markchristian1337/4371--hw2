@@ -1,0 +1,7 @@
+Mr. Moran,
+
+To protect the identity of my agent from those nosy detectives, I have encrypted the description of his physical appearance.
+For the encryption, I used a cipher in ECB mode with the very secret key that we exchanged a long time ago. The plaintext is a BMP file.
+
+Sincerely,
+Prof. Moriarty

@@ -1,0 +1,12 @@
+Mr. Moran,
+
+My agent is 6 feet tall and has short dark hair. He will be wearing a red fedora hat and holding a yellow umbrella. You are meeting him in London, so I suggest you take an umbrella too.
+
+To evade the detectives, I have encrypted the exact location of the meeting. You may decrypt the ciphertext using the following information:
+- plaintext is a PNG file;
+- encryption is AES in CBC mode with no padding;
+- IV is 16 zero bytes;
+- key is my birthdate: first byte is the year (just two digits, i.e., number between 0 and 99), second byte is the month, third byte is the day, and the remaining bytes are all zero.
+
+Sincerely,
+Professor Moriarty
